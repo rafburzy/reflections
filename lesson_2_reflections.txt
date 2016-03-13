@@ -1,0 +1,3 @@
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is a waiting room for files before the commit, it helps to create a logical set of items to be committed.

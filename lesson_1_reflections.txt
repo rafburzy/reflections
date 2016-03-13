@@ -21,5 +21,3 @@ git diff - gives me differences between different commits; if I use git diff --s
 Q5: How might using version control make you more confident to make changes that could break something?
 
 I can always revert back to a version that worked.
-
-fa4c6bade4970c282b3870ad16f1bde8164663a9
