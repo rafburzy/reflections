@@ -1,3 +1,20 @@
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it is a waiting room for files before the commit, it helps to create a logical set of items to be committed.
+
+Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Alternative ideas
+
+
+Q: How do the diagrams help you visualize the branch structure?
+
+it helps to move back and forth between commits and start in a place I like.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+one master branch with new features merged. It would be very helpful for my trials with python.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git automatic merge is much faster.
